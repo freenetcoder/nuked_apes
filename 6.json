@@ -1,0 +1,44 @@
+{
+  "name": "Nuked Ape #6",
+  "description": "A defiant Nuked World game PFP collection forged in nuclear fire. Each avatar is a battle-hardened Ape warlord, armed with attitude and built for the end times. Own the face of destruction — unlock max rank, eternal glory, and command the chaos in Nuked World. Limited. Legendary. Lethal.",
+  "image": "https://raw.githubusercontent.com/freenetcoder/nuked_apes/refs/heads/main/6.png",
+  "edition": 6,
+   "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Military Green"
+    },
+    {
+      "trait_type": "Country",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Gun",
+      "value": "M1 Rifle"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Teeth Showing"
+    },
+    {
+      "trait_type": "Uniform",
+      "value": "Paratroopers"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "Insignia",
+      "value": "Gold 2nd Lieutenant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Helmet with Cigarette"
+    }
+  ]
+}
